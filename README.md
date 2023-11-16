@@ -17,8 +17,3 @@ Step 6: Extract the current URL (used to extract lat, longs and place name)
 
 Step 7: Extra address, status etc from the opened page and once its done go back and click next place.
 
-Some weaknesses which I'll work on sometime:
-
-1. It is slow as it is not headless.
-
-2. It doesn't scroll down properly and thus it has to be done manually.
