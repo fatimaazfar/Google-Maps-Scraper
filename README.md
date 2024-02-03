@@ -52,10 +52,6 @@ The output CSV file will have the following columns:
 
 This script is intended for educational purposes only. Ensure compliance with Google Maps Terms of Service before using this script for scraping data.
 
-## License
-
-This project is licensed under the [MIT License](LICENSE).
-
 ## Contributing
 
 Contributions, issues, and feature requests are welcome. Feel free to check [issues page](https://github.com/fatimaazfar/Google-Maps-Scraper/issues) if you want to contribute.
